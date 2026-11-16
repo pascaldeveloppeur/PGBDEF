@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PGBDEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51b6a42af8176fa99612d83a5dbabd68d6f94871")]
 [assembly: System.Reflection.AssemblyProductAttribute("PGBDEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PGBDEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
